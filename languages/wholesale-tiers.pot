@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Wholesale Tiers\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Discount"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "One per line: qty|discount_percent. E.g.: 10|5"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Tiers"
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
